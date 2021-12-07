@@ -1,0 +1,13 @@
+name: automated-qRT-PCR-data-analysis
+title: automated-qRT-PCR-data-analysis
+username:
+account: shubhamdutta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5248580
+bundleId: 5317158
+url: https://shubhamdutta.shinyapps.io/automated-qRT-PCR-data-analysis/
+when: 1638410324.90931
+lastSyncTime: 1638410324.90931
+asMultiple: FALSE
+asStatic: FALSE
